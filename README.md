@@ -6,3 +6,7 @@
 - ![Twitter](http://i.imgur.com/wWzX9uB.png)  [@JaviDev07](https://twitter.com/JaviDev07)
 - ![Facebook](http://i.imgur.com/fep1WsG.png)  [Javier De Jesus](https://web.facebook.com/JavierIsmael.57/)
 
+## 𝗦𝘁𝗮𝘁𝘀
+
+![JavierMartinez07's github stats](https://github-readme-stats.vercel.app/api?username=JavierMartinez07&show_icons=true&theme=dark)
+
